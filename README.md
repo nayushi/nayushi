@@ -28,5 +28,6 @@
 	</a>
 </p>
 
-
+<br>
+<p><img src="https://komarev.com/ghpvc/?username=nayushi&label=Profile%20views&color=E34F32&style=flat" alt="nayushi" /><p>
 
