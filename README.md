@@ -8,6 +8,7 @@ I enjoy contributing to the open source community, with past contributions to:
 
 My published apps (using SwiftUI):  
 - 🕋 [Salat: Prayer Times and Qibla](https://apps.apple.com/us/app/salat-prayer-times-and-qibla/id6749776841)
-- 💻 [Idle Code Tycoon](https://apps.apple.com/us/app/idle-code-tycoon/id6754207431)  
+- 💻 [Idle Code Tycoon](https://apps.apple.com/us/app/idle-code-tycoon/id6754207431)
+- 🐻 [Cozy Animal Sort: Puzzle](https://apps.apple.com/us/app/cozy-animal-sort-puzzle/id6756031004)
 
 When I’m not coding, I’m usually sewing, solving jigsaw puzzles, building Lego or learning something new to bring into my projects.
