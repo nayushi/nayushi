@@ -1,6 +1,6 @@
 ## 🌼 Hi there!
 
-I’m Mariana, a Brazilian **iOS Developer with a Design degree**. For the past **4 years** I’ve been building iOS apps with **Swift (UIKit)**, coding and designing smooth and pixel-perfect user experiences.
+I’m Mariana, a Brazilian **iOS Developer with a Design degree**. For the past **5 years** I’ve been building iOS apps with **Swift (UIKit)**, coding and designing smooth and pixel-perfect user experiences.
 
 I enjoy contributing to the open source community, with past contributions to:  
 - [Firefox for iOS](https://github.com/mozilla-mobile/firefox-ios)  
