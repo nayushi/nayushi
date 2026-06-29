@@ -12,3 +12,5 @@ My published apps (using SwiftUI):
 - 🐻 [Cozy Animal Sort: Puzzle](https://apps.apple.com/us/app/cozy-animal-sort-puzzle/id6756031004)
 
 When I’m not coding, I’m usually sewing, solving jigsaw puzzles, building Lego or learning something new to bring into my projects.
+
+*[Privacy Policy](https://nayushi.github.io/privacy-policy/)*
